@@ -118,7 +118,7 @@ ul {
   gap: 16px;
   padding: 24px 0;
   font-size: 24px;
-  a {
+  & a {
     display: flex;
     align-items: center;
     justify-content: center;
