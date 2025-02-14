@@ -135,3 +135,11 @@ footer{
   text-align: center;
   font-size: 14px;
 }
+@media (min-width: 768px) {
+  :root{
+    --bg-url: url("./assets/background/bg-desktop.jpg");
+  }
+  .light{
+    --bg-url: url("./assets/background/bg-desktop-light.jpg");
+  }
+}
